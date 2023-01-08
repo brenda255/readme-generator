@@ -34,7 +34,7 @@ const questions = ([
     {
         type: 'input',
         name: 'license',
-        message: 'What licenses did you use?'
+        message: 'What licenses did you use?',
     },
     {
         type: 'input',
