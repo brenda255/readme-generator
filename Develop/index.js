@@ -12,12 +12,12 @@ const questions = ([
     {
         type: 'input',
         name: 'description',
-        message: 'Give me a description of your project. Ex: What was your motivation? Why did you build this project? What problem does it solve? What did you learn?'
+        message: 'Provide a description of your project.'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'What are the steps required to install your project? Provide a step-by-step description.'
+        message: 'What are the steps required to install your project?'
     },
     {
         type: 'input',
