@@ -26,16 +26,14 @@ const questions = ([
     },
     {
         type: 'input',
-        name: 'credits',
-        message: 'List your collaborators, if any.'
-    },
-
-    {
-        type: 'input',
         name: 'license',
         message: 'What licenses will this project use?',
     },
-
+    {
+        type: 'input',
+        name: 'credits',
+        message: 'List your collaborators, if any.'
+    },
     {
         type: 'input',
         name: 'GitHub',
